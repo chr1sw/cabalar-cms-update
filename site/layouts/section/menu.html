@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ partial "jumbotron-menu" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 mb6 center ph3 pt4">
+
+  <h1 class="f3">Breakfast</h1><br />
+
+  {{ range $index, $element := .Params.breakfast }}
+      {{ partial "menu-item" $element }}
+  {{ end }}
+
+<hr class="mt4"/>
+  <br />
+
+  <h1 class="f3">Lunch</h1>
+  <br />
+
+  {{ range $index, $element := .Params.lunch }}
+      {{ partial "menu-item" $element }}
+  {{ end }}
+
+</div>
+
+{{ end }}
