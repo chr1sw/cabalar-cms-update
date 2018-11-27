@@ -43,6 +43,12 @@ sandwiches:
   - description: 'Smoked Ham, Spicy Dijon, Swiss, Pickle, Long Roll'
     name: Cuban
     price: '10'
+  - description: 'Beef Chili Sauce. Spicy Brown Mustard, Minced Onion'
+    name: Texas Weiner
+    price: '7'
+  - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
+    name: Pulled Pork
+    price: '10'
 burgers:
   - description: '4-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
     name: House Special Burger
