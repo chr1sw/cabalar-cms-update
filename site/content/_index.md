@@ -5,7 +5,7 @@ info:
   addone: 325 North Queen Street | The Keppel Building
   addtwo: 'Lancaster, PA 17602 | Phone 717-208-7344'
   heading: Locally Sourced Butcher & Grocer
-  hours: Tues-Sat 11am-6pm | Sun 11am-6pm
+  hours: Tues-Sat 11am-8pm | Fri-Sat 11am-10pm | Sun 11am-8pm
   note: Customer Parking Available
 news:
   heading: Latest News
@@ -16,9 +16,9 @@ news:
 food:
   heading: Our Menu
   text: >-
-    We serve breakfast & lunch daily, and update our menu regularly with
+    We serve brunch, lunch, and dinner, and update our menu regularly with
     specials and seasonal offerings. Be sure to check our online menu to see
-    what we're serving today!
+    what we're serving up!
 products:
   heading: Our Products
   text: We source the best ingredients Lancaster County has to offer!
