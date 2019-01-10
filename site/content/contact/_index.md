@@ -5,4 +5,4 @@ contact_entries: []
 ---
 Hours
 
-Tues-Sat 11am-6pm | Sun 11am-6pm
+Tues-Thurs 11am-8pm |  Fri-Sat 11am- 10pm | Sun 11am-8pm
