@@ -10,18 +10,15 @@ snacks:
   - description: 'Fonduta Cheese Curds, Beef Gravy'
     name: Poutine
     price: '9'
-  - description: 'Hot Sauce, Blue Cheese'
+  - description: 'Lard Confit, Hot Sauce, Blue Cheese'
     name: Chicken Wings
     price: '12'
   - description: 'BBQ Rub, Ranch'
     name: Smoked Pork Rinds
     price: '7'
-  - description: 'House-Made Meat Selections, Pickles, Mustard, Bread'
-    name: Charcuterie Plate
-    price: '14'
-  - description: Voodoo Beer Cheese
-    name: Pretzel Braid
-    price: '7'
+  - description: 'Shaved Carrot, Pickled Onion, Baby Greens'
+    name: Pork Head Cheese
+    price: '8'
   - description: 'Spicy Sausage, Corn Bread, Honey Butter'
     name: Beef Chili
     price: '8'
@@ -72,12 +69,6 @@ salads:
   - description: 'Candied Bacon, Crispy Shallot, Sweet Orange Vin'
     name: Brussel Sprout Salad
     price: '8'
-  - description: 'Shredded Cabbage, Rice Noodle, Fish Sauce, Peanuts, Rau Ram'
-    name: Vietnamese Chicken Salad
-    price: '11'
-  - description: 'Puff Pastry, Balsamic, Goat Cheese, Bitter Greens'
-    name: Caramelized Garlic Tart
-    price: '10'
   - description: 'Green Goddess, Pistachio, Shaved Fennel'
     name: Beet Salad
     price: '8'
@@ -103,12 +94,10 @@ dessert:
   - description: Lemon Bourbon Mascarpone
     name: Griddled Pound Cake
     price: '7'
-  - description: 'Cardamom Sugar, Apple Cider Caramel, Maple Anglaise'
-    name: Lard Fried Donuts
+  - description: 'Cardamom Sugar, Almond, Dulce De Leche'
+    name: Churros
     price: '7'
-  - name: Lemon Meringue Tart
-    price: '8'
 beverages:
-  - name: Coming soon...
+  - name: 'Artisan Beer, Wine, Cocktails, and Non-Alcoholic Beverages Available'
 ---
 
