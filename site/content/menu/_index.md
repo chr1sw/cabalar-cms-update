@@ -13,16 +13,10 @@ snacks:
   - description: 'Lard Confit, Hot Sauce, Blue Cheese'
     name: Chicken Wings
     price: '12'
-  - description: 'BBQ Rub, Ranch'
-    name: Smoked Pork Rinds
-    price: '7'
-  - description: 'Shaved Carrot, Pickled Onion, Baby Greens'
-    name: Pork Head Cheese
-    price: '8'
   - description: 'Spicy Sausage, Corn Bread, Honey Butter'
     name: Beef Chili
     price: '8'
-  - description: 'Tahini, Lavash, Voodoo IPA'
+  - description: 'Tahini, Pita Crisp, Voodoo IPA'
     name: Hop Hummus
     price: '8'
 sandwiches:
@@ -47,12 +41,12 @@ sandwiches:
     name: Pulled Pork
     price: '10'
 burgers:
-  - description: '4-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
+  - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
     name: House Special Burger
     price: '10'
-  - description: 'Sweet Onion Jam, Smoked Bacon, Crispy Onion, Aioli, Cooper American'
+  - description: 'Sweet Onion Jam, Smoked Bacon, Aioli, Cooper American'
     name: BBQ Bacon Burger
-    price: '11'
+    price: '12'
   - description: 'Double Patty, Caramelized Onion, Cajun Mayo, White American, Rye Bread'
     name: Patty Melt
     price: '12'
@@ -87,8 +81,8 @@ brunch:
       American
     name: Monte Cristo
     price: '9'
-  - description: Maple Anglaise
-    name: Sticky Bun French Toast
+  - description: 'Nutella Chantilly, PA Maple, Candied Hazelnuts'
+    name: Challah French Toast
     price: '9'
 dessert:
   - description: Lemon Bourbon Mascarpone
