@@ -25,8 +25,8 @@ sandwiches:
       Brioche Bun
     name: Beef & Cheese
     price: '11'
-  - description: 'Smoked Pork Belly, Liver Mousse, Fish Oil Aioli, Pickled Veg, Cilantro'
-    name: Pork Belly Banh Mi
+  - description: 'Smoked Pork Coppa, Liver Mousse, Fish Oil Aioli, Pickled Veg, Cilantro'
+    name: Pork Banh Mi
     price: '9'
   - description: 'Smoked Beef Navel, Russian Dressing, Swiss, Kraut, Marble Rye'
     name: Pastrami Reuben
@@ -34,9 +34,6 @@ sandwiches:
   - description: 'Smoked Ham, Spicy Dijon, Swiss, Pickle, Long Roll'
     name: Cuban
     price: '10'
-  - description: 'Beef Chili Sauce. Spicy Brown Mustard, Minced Onion'
-    name: Texas Weiner
-    price: '7'
   - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
     name: Pulled Pork
     price: '10'
@@ -53,8 +50,10 @@ burgers:
   - description: 'Cooper American, Ketchup, LTO'
     name: Classic Burger
     price: '9'
-  - description: 'Dry Aged Beef, Gouda, Special Sauce, Pickled Green Tomato'
-    name: Dry Age Burger
+  - description: |
+      Lacto-Fermented Cremini,
+       Mushroom Aioli
+    name: Mushroom Swiss Burger
     price: '12'
   - description: 'Tzatziki, Pickled Red Onion, Radish'
     name: Falafel Burger
@@ -66,6 +65,10 @@ salads:
   - description: 'Green Goddess, Pistachio, Shaved Fennel'
     name: Beet Salad
     price: '8'
+  - description: |
+      BBQ Sauce, Creamy Cole Slaw, Tallow Fries
+    name: Smoked Pork Ribs
+    price: '12'
 brunch:
   - description: 'Rosemary Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg'
     name: Breakfast Hash
@@ -82,7 +85,7 @@ brunch:
     name: Monte Cristo
     price: '9'
   - description: 'Nutella Chantilly, PA Maple, Candied Hazelnuts'
-    name: Challah French Toast
+    name: Nutella French Toast
     price: '9'
 dessert:
   - description: Lemon Bourbon Mascarpone
