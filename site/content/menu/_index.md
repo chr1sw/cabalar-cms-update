@@ -16,16 +16,13 @@ snacks:
   - description: 'Spicy Sausage, Corn Bread, Honey Butter'
     name: Beef Chili
     price: '8'
-  - description: 'Tahini, Pita Crisp, Voodoo IPA'
-    name: Hop Hummus
-    price: '8'
 sandwiches:
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
       Brioche Bun
     name: Beef & Cheese
     price: '11'
-  - description: 'Smoked Pork Coppa, Liver Mousse, Fish Oil Aioli, Pickled Veg, Cilantro'
+  - description: 'Smoked Pork Coppa, Fish Oil Aioli, Pickled Veg, Cilantro, Jalapeno'
     name: Pork Banh Mi
     price: '9'
   - description: 'Smoked Beef Navel, Russian Dressing, Swiss, Kraut, Marble Rye'
@@ -36,6 +33,15 @@ sandwiches:
     price: '10'
   - description: 'BBQ Sauce, Pickle Mayo, Jalapeno Cole Slaw, Brioche Bun'
     name: Pulled Pork
+    price: '10'
+  - description: |
+      Frankfurter, Tomato, Relish, Pickle Spear, Sport Pepper, Mustard, Onion 
+    name: Chicago Dog
+    price: '7'
+  - description: >
+      Buttermilk Brined Chicken Thigh, Voodoo Barrel Aged Hot Sauce, B&B
+      Pickles, Ranch
+    name: Spicy Chicken
     price: '10'
 burgers:
   - description: '2-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
@@ -65,10 +71,6 @@ salads:
   - description: 'Green Goddess, Pistachio, Shaved Fennel'
     name: Beet Salad
     price: '8'
-  - description: |
-      BBQ Sauce, Creamy Cole Slaw, Tallow Fries
-    name: Smoked Pork Ribs
-    price: '12'
 brunch:
   - description: 'Rosemary Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg'
     name: Breakfast Hash
@@ -83,9 +85,6 @@ brunch:
       Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
       American
     name: Monte Cristo
-    price: '9'
-  - description: 'Nutella Chantilly, PA Maple, Candied Hazelnuts'
-    name: Nutella French Toast
     price: '9'
 dessert:
   - description: Lemon Bourbon Mascarpone
