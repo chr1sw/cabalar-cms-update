@@ -1,7 +1,7 @@
 ---
 title: >-
   Menu Served: Tues-Thurs 11am-8pm | Fri-Sat 11am-10pm | Sun
-  11am-6pm                Breakfast/Brunch: Sat-Sun 11am-3pm
+  11am-8pm                Breakfast/Brunch: Sat-Sun 11am-3pm
 image: /img/img-2087.jpg
 snacks:
   - description: Sweet Pickle Mayo and Ketchup
@@ -13,9 +13,12 @@ snacks:
   - description: 'Lard Confit, Hot Sauce, Blue Cheese'
     name: Chicken Wings
     price: '12'
-  - description: 'Spicy Sausage, Corn Bread, Honey Butter'
-    name: Beef Chili
-    price: '8'
+  - description: |+
+      Cheddar Mac and Cheese, BBQ Pulled Pork, Biscuit Breadcrumb
+
+    name: |
+      Pulled Pork Mac  
+    price: '10'
 sandwiches:
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
@@ -87,12 +90,18 @@ brunch:
     name: Monte Cristo
     price: '9'
 dessert:
-  - description: Lemon Bourbon Mascarpone
+  - description: Madagascan Vanilla Ice Cream
     name: Griddled Pound Cake
-    price: '7'
-  - description: 'Cardamom Sugar, Almond, Dulce De Leche'
-    name: Churros
-    price: '7'
+    price: '6'
+  - description: 'Double Chocolate Cookie, Madagascan Vanilla Ice Cream'
+    name: |+
+      Ice Cream Sandwich 
+
+    price: '5'
+  - description: 'Boylans Soda, Vanilla Scoops'
+    name: |
+      Ice Cream Float
+    price: ' 5 '
 beverages:
   - name: 'Artisan Beer, Wine, Cocktails, and Non-Alcoholic Beverages Available'
 ---
