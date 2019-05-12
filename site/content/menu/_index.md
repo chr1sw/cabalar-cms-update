@@ -1,7 +1,5 @@
 ---
-title: >-
-  Menu Served: Tues-Thurs 11am-8pm | Fri-Sat 11am-10pm | Sun
-  11am-8pm                Breakfast/Brunch: Sat-Sun 11am-3pm
+title: 'Breakfast/Brunch: Sat-Sun 11am-3pm'
 image: /img/img-2087.jpg
 snacks:
   - description: Sweet Pickle Mayo and Ketchup
