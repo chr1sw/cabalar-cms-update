@@ -17,6 +17,11 @@ snacks:
     name: |
       Pulled Pork Mac  
     price: '10'
+  - description: |
+      Big Brown Ale Beer Batter, Chipotle Mayo
+    name: |
+      Onion Rings 
+    price: '6'
 sandwiches:
   - description: >-
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
@@ -66,12 +71,16 @@ burgers:
     name: Falafel Burger
     price: '9'
 salads:
-  - description: 'Candied Bacon, Crispy Shallot, Sweet Orange Vin'
-    name: Brussel Sprout Salad
+  - description: 'Thousand Island, Crispy Shallot, Radish, Tomato'
+    name: |+
+      Wedge Salad 
+
     price: '8'
-  - description: 'Green Goddess, Pistachio, Shaved Fennel'
-    name: Beet Salad
-    price: '8'
+  - description: 'Tomato, Micro Sorrell, Spring Onion Pistou'
+    name: |
+      Fried Mozz 
+      Hydroponic Tomato, Micro Sorrell, Spring Onion Pistou
+    price: '9'
 brunch:
   - description: 'Rosemary Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg'
     name: Breakfast Hash
